@@ -22,19 +22,13 @@ A machine learning project built during my internship that predicts how long a f
 
 ##  Problem Statement
 
-Flight delays are one of the biggest pain points in the airline industry — for passengers, airlines, and airports alike. A delay doesn't just inconvenience travelers; it creates a chain reaction of operational issues: missed connections, crew scheduling problems, gate conflicts, and increased costs.
-
-This project looks at historical flight data and tries to answer: **can we predict how delayed a flight will be, and what factors matter most?**
+Flight delays are a persistent and costly problem in the airline industry, directly impacting passenger experience and airline operations. Several factors drive these delays — weather, air traffic congestion, carrier-side issues, and late arriving aircraft. The goal of this project is to analyze historical flight data and build a regression-based machine learning model that can predict how long a flight will be delayed (in minutes). Understanding the key factors behind delays can help airlines improve scheduling, resource allocation, and overall operational performance.
 
 ---
 
 ## Business Objective
 
-Build a regression-based machine learning model that estimates the arrival delay of a flight in minutes. The model is designed to help:
-
-- Airlines improve scheduling and resource management
-- Airport operations teams plan more proactively
-- Passengers receive better delay estimates before and during travel
+Build a reliable predictive model that estimates flight arrival delays using historical airline data. The model should help airlines and airport management teams make data-driven decisions — improving operational planning, reducing unnecessary delays, and enhancing the overall passenger experience through better communication and delay management.
 
 ---
 
