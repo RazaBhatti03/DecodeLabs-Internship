@@ -13,7 +13,7 @@ A machine learning project built during my internship that predicts how long a f
 - [Technologies Used](#technologies-used)
 - [Models Compared](#models-compared)
 - [Final Model Performance](#final-model-performance)
-- [Project Structure](#project-structure)
+- [Model Performance — Before vs After Tuning](#Model Performance — Before vs After Tuning)
 - [How to Run](#how-to-run)
 - [Key Learnings](#key-learnings)
 - [Future Improvements](#future-improvements)
