@@ -283,6 +283,6 @@ Pearson only captures **linear relationships**. For checking feature-vs-feature 
 Made as part of an internship project.  
 Feel free to open an issue or reach out if you have questions or suggestions.
 
-- **GitHub:** [https://github.com/your-username](https://github.com/RazaBhatti03)
-- **LinkedIn:** [https://linkedin.com/in/your-profile](https://linkedin.com/in/raza-ur-rahman-33h)
+- **GitHub:** https://github.com/RazaBhatti03
+- **LinkedIn:** https://linkedin.com/in/raza-ur-rahman-33h
 
