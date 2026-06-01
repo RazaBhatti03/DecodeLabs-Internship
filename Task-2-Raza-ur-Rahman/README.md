@@ -142,4 +142,12 @@ data.info()
 
 ---
 
-## 📁 Project Structure
+---
+
+## 👤 Author
+
+Made as part of an internship project.  
+Feel free to open an issue or reach out if you have questions or suggestions.
+
+- **GitHub:** [your-username](https://github.com/your-username)
+- **LinkedIn:** [your-linkedin-profile](https://linkedin.com/in/your-profile)
