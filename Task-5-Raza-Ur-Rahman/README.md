@@ -13,7 +13,7 @@ A machine learning project built during my internship that predicts how long a f
 - [Technologies Used](#technologies-used)
 - [Models Compared](#models-compared)
 - [Final Model Performance](#final-model-performance)
-- [Model Performance — Before vs After Tuning](#Model Performance — Before vs After Tuning)
+- [Model Performance — Before vs After Tuning](#Model-Performance—Before-vs-After-Tuning)
 - [How to Run](#how-to-run)
 - [Key Learnings](#key-learnings)
 - [Future Improvements](#future-improvements)
@@ -232,4 +232,5 @@ Future versions will include a dedicated Limitations section covering things lik
 Made as part of an internship project.  
 Feel free to open an issue or reach out if you have questions or suggestions.
 
-
+- **GitHub:** https://github.com/RazaBhatti03
+- **LinkedIn:** https://linkedin.com/in/raza-ur-rahman-33h
